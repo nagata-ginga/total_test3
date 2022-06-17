@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+}
+
+.header-left{
+    background-color: #573F2E;
+    width: 30vw;
+    height: 30vh;
+}
+
+.header-right{
+    background-color: #3E2D21;
+    width: 70vw;
+    height: 30vh;
+}
+/* ------------------------------------------------- */
+.main{
+    display: flex;
+    justify-content: center;
+}
+
+.left{
+    background-color: #FAEDED;
+    width: 30vw;
+    height: 70vh;
+}
+
+.right-top{
+    background-color: #6A4021;
+    width: 70vw;
+    height: 70%;
+}
+
+.right-bottom{
+    background-color: #3E2D21;
+    width: 70vw;
+    height: 30%;
+}
